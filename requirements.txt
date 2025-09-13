@@ -1,0 +1,6 @@
+mne
+braindecode
+scikit-learn
+pyserial
+numpy
+pandas
